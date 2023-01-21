@@ -1,0 +1,15 @@
+.videos {
+    align-content:center;
+    display: grid;
+    grid-template-columns: 100px 100px 100px 1fr 1fr 1fr;
+    margin-top: 20%;
+    margin-left: 35%;
+    margin-right: 20%;
+    
+}
+
+.frame-border {
+    border: 8px solid;
+    border-color:black;
+    padding: 10px;
+}
